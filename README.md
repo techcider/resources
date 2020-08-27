@@ -1,2 +1,2 @@
 # resources
-Resources by Techcider and Infinix
+Resources by Techcider and Infinix.
